@@ -1,3 +1,5 @@
 .idea/
 .venv/
-!.dvc
+*.parquet
+
+remote_data

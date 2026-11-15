@@ -3,3 +3,9 @@
 *.parquet
 
 remote_data
+
+# Ignore MLflow files
+mlflow.db
+mlflow-artifacts/
+mlflow-data/
+mlruns/
